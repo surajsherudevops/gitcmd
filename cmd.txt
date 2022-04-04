@@ -1,0 +1,378 @@
+    1  git config --global user.name "surajsheru"
+    2  git config --global user.email "surajsheru@gmail.com"
+    3  cd d:/project
+    4  git init
+    5  git add *.c
+    6  git clone https://gitlab.com/Mavericks001/completeacademicmanagement.git
+    7  cd..
+    8  cd ..
+    9  cd cas
+   10  git init
+   11  git remote add origin https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   12  git add .
+   13  git commit -m "Initial commit"
+   14  git push -f origin master
+   15  git init
+   16  git add .
+   17  git commit    -m "initial copmmit"
+   18  git status
+   19  git remote add origin https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   20  git push -f origin master
+   21  git init
+   22  git add .
+   23  git commit -m "nitial commit"
+   24  git status
+   25  git remote add origin https://gitlab.com/surajsheru/cas.git
+   26  git push -f origin master
+   27  git push --all origin master
+   28  git push -f -a origin master
+   29  git push -f --all origin master
+   30  git push  --all origin master
+   31  git remote add origin https://gitlab.com/surajsheru/cas.git
+   32  git push  --all origin master
+   33  git push   origin master
+   34  git push  -f origin master
+   35  git push -f origin  master
+   36  git init
+   37  https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   38  git init
+   39  git remote add origin https://gitlab.com/surajsheru/sample.git
+   40  git add .
+   41  git commit -m "initial commit"
+   42  git push -u orgin master
+   43  git push -u origin master
+   44  git push -f origin master
+   45  git config --global user.name "suraj kamal.shaik"
+   46  git config --global user.email "surajsheru@gmail.com"
+   47  git init
+   48  git init
+   49  git remote add origin https://gitlab.com/surajsheru/sample.git
+   50  git add .
+   51  git commit -m "initial commit"
+   52  git push -u origin master
+   53  git init
+   54  git add .
+   55  git 
+   56  git add
+   57  git remote
+   58  git push
+   59  git remote add origin https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   60  git sh -u ogigin master
+   61  git push -u ogigin master
+   62  git push -u origin master
+   63  git init
+   64  git remote add origin https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   65  git add .
+   66  git commit -m "initial commit"
+   67  git push -u origin master
+   68  git init
+   69  git remote add origin https://gitlab.com/Mavericks001/completeacademicmanagement.git
+   70  git add .
+   71  git commin -m "initial commit"
+   72  git commit -m "initial commit"
+   73  git push -u origin master
+   74  npm init
+   75  npm install --save express mysql body-parser hbs
+   76  npm install --save express mysql body-parser hbs
+   77  exit
+   78  npm init
+   79  dir
+   80  npm install --save express mysql body-parser hbs
+   81  e:
+   82  cd e:
+   83  dir
+   84  cd react/proreact/
+   85  dir
+   86  cd ecom
+   87  cls
+   88  clear
+   89  git remote add origin git@github.com:sherusuraj/Faculty.git
+   90  git status
+   91  git add -A
+   92  git commit -m "my faculty projects"
+   93  git push origin master
+   94  cd e:
+   95  cd proreact
+   96  dir
+   97  cd react
+   98  cd proreact/ecom
+   99  code .
+  100  npm start
+  101  npm start
+  102  exit
+  103  e:
+  104  cd e:
+  105  git clone https://git-rba.hackerrank.com/git/014bf5d7-a8e2-481d-9a53-f3dd10818d45
+  106  dir
+  107  cd test
+  108  code .
+  109  code .
+  110  npm start
+  111  npm install
+  112  npm start
+  113  npm i
+  114  npm start
+  115  code .
+  116  cd..
+  117  exit
+  118  cd e:
+  119  cd react/pten
+  120  git init
+  121  git add -A
+  122  git commit
+  123  cde:
+  124  cd e:
+  125  cd react/pten
+  126  git init
+  127  git commit -m "first commit"
+  128  git remote add origin https://github.com/surajsheru/pten.git
+  129  git push origin master
+  130  npm run deploy
+  131  git init
+  132  npm run deploy
+  133  git status
+  134  git add -A
+  135  git init
+  136  npm run deploy
+  137  git add -A
+  138  git push origin master
+  139  npm run deploy
+  140  exit
+  141  e:
+  142  cd e:
+  143  cd cse
+  144  git init
+  145  git add -A
+  146  git remote add origin https://github.com/surajsheru/cse.git
+  147  git commit -m "first MSg"
+  148  git push origin master
+  149  e:
+  150  cd e:
+  151  cd react/gitprojects/msgblog2
+  152  git init
+  153  git add -A
+  154  git remote add origin https://github.com/surajsheru/msgblog2.git
+  155  git commit
+  156  cd e:
+  157  cd react/gitprojects/msgblog2
+  158  git push -u origin master
+  159  git add remote origin https://github.com/surajsheru/msgblog2.git
+  160  git init
+  161  git add remote origin https://github.com/surajsheru/msgblog2.git
+  162  git add -A
+  163  git add remote origin https://github.com/surajsheru/msgblog2.git
+  164  git push -u origin master
+  165  exit
+  166  cd e:
+  167  cd react
+  168  cd gitprojects
+  169  cd IMJSTASK
+  170  ls
+  171  cd IMSSJSTASK
+  172  git init
+  173  git add -A
+  174  git remote add origin https://github.com/surajsheru/IMSS_JS_TASK.git
+  175  git commit -m "first"
+  176  git add -A
+  177  git push origin master
+  178  exit
+  179  cd e:
+  180  cd react/gitprojetcs
+  181  cd imtask
+  182  cd react
+  183  cd gitprojects
+  184  cd imtask
+  185  git status
+  186  git add -A
+  187  git commit -m "second"
+  188  git push origin master
+  189  exit
+  190  cd e:
+  191  git --version
+  192  git 
+  193  git config --list
+  194  pwd
+  195  git log
+  196  cd E;
+  197  cd E:
+  198  cd devops
+  199  cd poject
+  200  ls
+  201  cdd project
+  202  cd project
+  203  git nit
+  204  git init
+  205  ll
+  206  ls
+  207  lsa
+  208  ls -a
+  209  gt sttus
+  210  git status
+  211  git add .
+  212  git status
+  213  ls
+  214  git status
+  215  git add .
+  216  git status
+  217  git commit -m "fist commit"
+  218  git status
+  219  git log
+  220  git
+  221  git diff
+  222  e:
+  223  e
+  224  e:
+  225  cd E:
+  226  cd Ddevops/tomcatproject
+  227  cd Ddevops
+  228  cd devops/tomcatproject
+  229  cd devops
+  230  ls
+  231  cd tomcatproject
+  232  cd mavenproject
+  233  git inti
+  234  git init
+  235  git clone https://github.com/surajsherudevops/hello-world.git
+  236  ls
+  237  git pull
+  238  cd hello-world
+  239  git status
+  240  git status
+  241  git add .
+  242  git commimt -m "my commit"
+  243  git commit -m "my commit"
+  244  git status
+  245  git push origin master
+  246  git push origin master
+  247  git pull
+  248  git commit
+  249  git push origin master
+  250  cd..
+  251  cd ..
+  252  git clone https://github.com/surajsherudevops/hello-world.git
+  253  git config --list
+  254  git config user.email "surajsherudevops@gmial.com"
+  255  git config -glob al user.email "surajsherudevops@gmial.com"
+  256  git config -global user.email "surajsherudevops@gmial.com"
+  257  git config --global user.email "surajsherudevops@gmial.com"
+  258  git config --list
+  259  git --version
+  260  which git
+  261  cd e:
+  262  cd devops
+  263  cd GITP
+  264  dirt
+  265  dir
+  266  cls
+  267  clear
+  268  git init
+  269  git status
+  270  git status
+  271  git add .
+  272  git status
+  273  git commit -m "initial commit"
+  274  git status
+  275  git status
+  276  git status
+  277  git add .
+  278  git status
+  279  git commit -m "second commit"
+  280  git remote add origin https://github.com/surajsherudevops/Mygitpractice.git
+  281  git
+  282  git push --set-upstream origin master
+  283  cd ..
+  284  git init Demo 
+  285  ls
+  286    cd demo
+  287  ls -al
+  288  git status
+  289  cat README.md
+  290  vi Sample.txt
+  291  ls
+  292  git status
+  293  git add .
+  294  sit status
+  295  git status
+  296  git commit -m "first commit"
+  297  git status
+  298  pwd
+  299  ls -al
+  300  vi Simple.txt
+  301  git status
+  302  git add .
+  303  git status
+  304  git commit -m "first commit to simple file"
+  305  git status
+  306  ls -al
+  307  vi Sample.txt
+  308  git status
+  309  git ls-files
+  310  git commit -am "second commit on Sample file"
+  311  git log
+  312  pwd
+  313  git status
+  314  vi Sample.txt
+  315  git status
+  316  git add .
+  317  git reset HEAD Sample.txt
+  318  cat Sample.txt
+  319  git status
+  320  git checkout -- Sample.txt
+  321  git status
+  322  cat Sample.txt
+  323   git log
+  324  git log --online --graph --decorate --all
+  325  git log --oneline --graph --decorate --all
+  326  git status
+  327  git status
+  328  git log --oneline --graph --decorate --all
+  329  git diff
+  330  git diff bd1debf  8a68e1a HEAD
+  331  git diff bd1debf  8a68e1a
+  332  git difftool bd1debf  8a68e1a
+  333  who am i
+  334  clar
+  335  clear
+  336  git --version
+  337  ssh-keygen -t ed25519 -C "surajsherudevops@gmail.com"
+  338  eval "$(ssh-agent -s)"
+  339  ssh-add ~/.ssh/id_ed25519
+  340  clip < ~/.ssh/id_ed25519.pub
+  341  e:
+  342  e ;
+  343  e:
+  344  clear
+  345  E:
+  346  e:
+  347  cd e:/
+  348  dir
+  349  mkdir gitwork
+  350  dir
+  351  cd gitwork
+  352  git clone git@github.com:surajsherudevops/hello-world.git
+  353  dir
+  354  cd hello-world
+  355  ls
+  356  cd ..
+  357  mkdir gitcmd
+  358  cd gitcmd
+  359  git init
+  360  vi sample.txt
+  361  git status
+  362  git add
+  363  git add .
+  364  git status
+  365  git commit . -m "first commit"
+  366  git status
+  367  git push origin master
+  368  git remote add origin git@github.com:surajsherudevops/gitcmd.git
+  369  git push -u origin main
+  370  git push -u origin master
+  371  exit
+  372  git status
+  373  dir
+  374  cd gitcmd
+  375  git status
+  376  clear
+  377  history
+  378  history > cmd.txt
